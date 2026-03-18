@@ -1,0 +1,46 @@
+Ditch Typing Completely
+
+**VAULT: AI Fluency | Null Results by Jenna Gaff**
+
+> *'Type at the speed you think (400 words per min) to reduce time from thought to action'*
+
+---
+
+## Hypothesis
+
+AI voice dictation is now fast and accurate enough to fully replace typing: reclaiming 3–4 hours per week.
+
+## Method
+
+- **Tool:** Wispr Flow (3rd party AI keyboard) on iPhone + Mac
+- **Duration:** 14 days. No typing for anything.
+- **Workflow:** Push hotkey → speak → text appears (AI adjusted)
+- **Tested across:** WhatsApp, Slack, Emails, Documents, Notes
+- **Customisation:** Formal tone for emails, casual for WhatsApp
+
+## Null Result
+
+Failed to build a habit of using voice-to-text on laptop. The lure of a physical keyboard proved too much.
+
+**Stats:** WPM went from 60 → 140 (2x improvement) but only 35% of the 400 wpm rate humans think at. Doesn't account for manual review time.
+
+## Findings
+
+**1. Slow down to speed up**
+Training Wispr with custom snippets for jargon pays off. Same principle applies to AI broadly: better context = lower hallucination rate.
+
+**2. Dictation vs keyboard: the real fight**
+Laptop-dominant workers will struggle to adopt. Mobile-dominant workers get a smoother experience, especially on Android where Wispr has deeper system-level access than iOS.
+
+**3. End of day brain dump**
+The unexpected win. Voice-dump thoughts into notes → copy-paste to Claude → 80:20 action list for tomorrow → auto-block calendar time. All while drifting off to sleep.
+
+## Mistake-away Experiments
+
+**1. The build upstream experiment.** Cash in a Friday for an asymmetric win workshop. If you're building an AI product: does it require users to open something new or could it embed into what they already do? If your product sits at the app layer, figure out what it would take to push it upstream. If you're testing vendors, apply the same lens: count friction points from sign-up through daily use. More than three and adoption will be an uphill struggle.
+
+**2. The brain dump experiment.** Invite your team to spend five minutes at the end of each day voice-dumping their to-do's, then pass them to an LLM for an 80:20 action list. Add high-level context on goals for the week. Track whether the next morning starts sharper.
+
+---
+
+*Don't repeat my failures. Please conduct your own and report back.*
